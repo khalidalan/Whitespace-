@@ -1247,41 +1247,49 @@ li {
   .img-1 {
     transform: translate(0.9rem, -5.7rem);
     width: 66%;
+    display: none;
   }
 
   .img-2 {
     transform: translate(6rem, -6.9rem);
     width: 50%;
+    display: none;
   }
 
   .img-3 {
     transform: translate(7rem, -5.9rem);
     width: 51%;
+    display: none;
   }
 
   .img-4 {
     transform: translate(0.5rem, -4.9rem);
     width: 58%;
+    display: none;
   }
 
   .img-5 {
     transform: translate(0.5rem, 10.5rem);
     width: 28%;
+    display: none;
   }
 
   .img-6 {
     transform: translate(6.5rem, -7.3rem);
     width: 50%;
+    display: none;
   }
 
   .img-7 {
     transform: translate(4.5rem, 3.2rem);
     width: 50%;
+    display: none;
   }
 
   .img-9 {
     transform: translate(8.5rem, -1.6rem);
     width: 50%;
+    display: none;
   }
 
   .mobile{
