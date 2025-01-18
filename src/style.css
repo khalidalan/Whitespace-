@@ -170,7 +170,7 @@ li {
 
 }
 
-@media (max-width: 375px) {
+@media (max-width: 550px) {
   html {
     font-size: 10px;
   }
@@ -236,3 +236,5 @@ li {
     left: -32rem;
   }
 }
+
+
